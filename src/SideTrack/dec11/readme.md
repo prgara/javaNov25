@@ -68,7 +68,7 @@ rwx   ---        ---
 4+2+1 = 7
 
 2+4 =6
-chmod 600 file.txt
+chmod 600 file.
 
 -> create a file
 1. Owner can read write execute but group & other can have read only access
