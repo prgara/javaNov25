@@ -17,6 +17,7 @@ combining both these writings
 
 
 We are testing how the merge works
+nbceghfenfeni
 
 
 
@@ -26,3 +27,12 @@ you ahve to make chnages cal file and then you have to merge those back in relea
 
 
 --- testing merge again for clarity
+
+stash - > temporary stores the changes at a place and can be retrived later when required.
+
+git stash
+git stash pop
+
+
+
+main/release/staging/develop is protected
