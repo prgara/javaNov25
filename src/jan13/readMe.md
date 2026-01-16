@@ -46,5 +46,5 @@ Characteristics
 
 
 Abstract class car -> start, break, reverse, engine
-Ford -> 
+Ford -> has all the basic features
 
